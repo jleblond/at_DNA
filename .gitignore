@@ -1,0 +1,6 @@
+.idea
+__pycache__
+venv
+test_genome_1.txt
+test_genome_2.txt
+cM_estimator_dna.csv
